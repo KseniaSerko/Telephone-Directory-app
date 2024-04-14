@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64619497655",
+    "project_id": "telephone-directory-app-41afd",
+    "storage_bucket": "telephone-directory-app-41afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64619497655:android:99a293e3a6a35869236532",
+        "android_client_info": {
+          "package_name": "com.example.crudrealtimeadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-49RgFWcH5pC7QCuKkEAA1DE-5Ce_QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64619497655:android:8013017eff04eaa7236532",
+        "android_client_info": {
+          "package_name": "com.example.telephonedirectoryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-49RgFWcH5pC7QCuKkEAA1DE-5Ce_QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

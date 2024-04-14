@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CRUD Realtime Admin</string>
+    <string name="upload">Upload</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="enter_the_phone">Enter the phone</string>
+    <string name="enter_the_surname">Enter the surname</string>
+    <string name="enter_company_name">Enter company name</string>
+    <string name="save">Save\n</string>
+</resources>

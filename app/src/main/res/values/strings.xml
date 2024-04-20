@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Telephone Directory app</string>
+    <string name="enter_contact_number">Enter contact number</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="company">Company</string>
+    <string name="enter_phone_number">Enter phone number</string>
 </resources>

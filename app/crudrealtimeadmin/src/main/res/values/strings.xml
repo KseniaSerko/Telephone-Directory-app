@@ -7,4 +7,6 @@
     <string name="enter_company_name">Enter company name</string>
     <string name="save">Save\n</string>
     <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="enter_phone_number">Enter phone number</string>
 </resources>
